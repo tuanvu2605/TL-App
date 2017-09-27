@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AppViewController.h
 //  TLApp
 //
 //  Created by TuanAnh on 9/27/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AppViewController : UIViewController
 
 @end
-
